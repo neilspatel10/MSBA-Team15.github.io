@@ -1,7 +1,7 @@
 ---
 layout: default
 title: MSBA Team 15 Projects Page
-description: By: Neil Patel, Kenzie Reed, Ivan Kirshin, Ziwei Yu 
+description: "By: Neil Patel, Kenzie Reed, Ivan Kirshin, Ziwei Yu" 
 ---
 
 [Link to another page](./another-page.html).
