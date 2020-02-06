@@ -7,11 +7,13 @@ description: By: Neil Patel, Kenzie Reed, Ivan Kirshin, Ziwei Yu
 [Link to another page](./another-page.html).
 
 # Machine Learning:
-
+---
 ## Team Presentation 1:
+---
 ### Lab 7.8.2 Splines & 7.8.3 GAMs  
 
 ### Applied Excercise 9 (pg. 299-300)
+---
 
 ## Header 2
 
