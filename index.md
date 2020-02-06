@@ -1,18 +1,17 @@
 ---
 layout: default
+title: MSBA Team 15 Projects Page
+description: By: Neil Patel, Kenzie Reed, Ivan Kirshin, Ziwei Yu 
 ---
-
-Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
 
-There should be whitespace between paragraphs.
+# Machine Learning:
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+## Team Presentation 1:
+### Lab 7.8.2 Splines & 7.8.3 GAMs  
 
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+### Applied Excercise 9 (pg. 299-300)
 
 ## Header 2
 
