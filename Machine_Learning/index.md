@@ -1,4 +1,5 @@
-<title> Machine Learning </title> 
+<title> Machine Learning </title>  
+
 ## Team Presentation 1:  
 - [Chapter 7 Lab 7.8.2 & 7.8.3](Lab7.8.2&7.8.3.html)  
   - [Downloadable R file for Lab 7.8.2&3](Lab7.8.2&7.8.3.R)  
