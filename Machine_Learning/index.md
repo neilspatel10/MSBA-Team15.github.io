@@ -2,5 +2,7 @@
 ## Note: Work in Progress
 
 ### Team Presentation 1:  
-- [example1 of a link to html](spare_parts.html)  
-- [example of a download](sample_code_html_javascript.pdf)  
+- [Chapter 7 Lab 7.8.2 & 7.8.3](lab7.8.2-3.html)  
+- [Downloadable R file for Lab 7.8.2&3](lab7.82-3.R)  
+- [Applied Exercise 9 Chapter7](appExercise9.html)  
+- [Downloadable R file for Applied Exercise](appExercise9.R)
