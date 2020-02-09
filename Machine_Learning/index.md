@@ -1,6 +1,7 @@
-<title> Machine Learning </title>  
+# Machine Learning
+## By: Neil Patel, Ziwei Yu, Kenzie Reed, Ivan Kirshin
 
-## Team Presentation 1:  
+### Team Presentation 1:  
 - [Chapter 7 Lab 7.8.2 & 7.8.3](Lab7.8.2&7.8.3.html)  
   - [Downloadable R file for Lab 7.8.2&3](Lab7.8.2&7.8.3.R)  
 - [Applied Exercise 9 Chapter 7](Applied-Exercise-9.html)  
