@@ -11,4 +11,5 @@ description: "By: Neil Patel, Kenzie Reed, Ivan Kirshin, Ziwei Yu"
 
 
 [Back](https://neilspatel10.github.io/MSBA-Team15.github.io/)
-### Team Presentation 2:(/TP2/index.md)
+### Team Presentation 2:
+- [Elo Merchant](TP2/index.md)
